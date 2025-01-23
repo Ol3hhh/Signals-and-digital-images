@@ -1,0 +1,42 @@
+mae el
+Best DCT coefficients: (3, 21) with deviation 115.7937405904134
+Best WHT coefficients: (3, 15) with deviation 96.54208755493164
+Best Haar coefficients: (19, 64) with deviation 100.24647521972656
+Best Bior53 coefficients: (19, 32) with deviation 102.34364191691081
+Best Bior97 coefficients: (37, 4) with deviation 98.32418823242188
+Nonzero coefficients for the original image: 786432
+Nonzero coefficients for DCT: 107916
+Nonzero coefficients for WHT: 42039
+Nonzero coefficients for Haar: 783320
+Nonzero coefficients for Bior53: 798760
+Nonzero coefficients for Bior97: 811200
+
+
+
+
+
+
+mse el
+Best DCT coefficients: (3, 27) with deviation 58.17851003011068
+Best WHT coefficients: (3, 29) with deviation 17.67724863688151
+Best Haar coefficients: (5, 1) with deviation 29.750760396321613
+Best Bior53 coefficients: (3, 1) with deviation 32.21837615966797
+Best Bior97 coefficients: (37, 4) with deviation 54.30915323893229
+
+
+mae fella
+Best DCT coefficients: (3, 1) with deviation 110.70498914963632
+Best WHT coefficients: (3, 1) with deviation 110.10406323694093
+Best Haar coefficients: (19, 1) with deviation 99.85768516269327
+Best Bior53 coefficients: (19, 1) with deviation 96.99415716317169
+Best Bior97 coefficients: (19, 64) with deviation 100.0775435509598
+
+
+
+
+
+Best Bior97 coefficients: (37, 2) with deviation 98.87163798014323
+
+
+
+
